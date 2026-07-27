@@ -11,11 +11,5 @@
 #### 🎵 On Rotation
 
 <p align="left">
-  <img src="assets/cover_1.jpeg" width="160" style="border-radius: 12px;">
-  &nbsp;&nbsp;
-  <img src="assets/cover_2.jpeg" width="160" style="border-radius: 12px;">
-  &nbsp;&nbsp;
-  <img src="assets/cover_3.jpeg" width="160" style="border-radius: 12px;">
-  &nbsp;&nbsp;
-  <img src="assets/cover_4.jpeg" width="160" style="border-radius: 12px;">
+  <img src="assets/covers.png" alt="On Rotation">
 </p>
